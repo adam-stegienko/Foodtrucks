@@ -1,0 +1,4 @@
+*.md
+*.png
+init.sh
+Dockerfile
