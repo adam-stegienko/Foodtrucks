@@ -1,6 +1,11 @@
 SF Food Trucks
 ===
 
+#### NOTE FROM ADAM:
+In order to start the dockerized version of the app, make sure you have docker installed on your machine and run the "init.sh" script.
+Then you can access the Foodtrucks application via address http://localhost:80
+
+===
 > San Francisco's finger-licking street food now at your fingertips.
 
 ![img](shot.png)
